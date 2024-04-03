@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7GJa/GykIt6fmjKTzSm7gwqLv0HnmeNO64Vgooh9pKWwlwLWD2QxM3DhRc7DWgXdsRVe0NbUOdDHYpqrcSo5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\SpreadSheetEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khali\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\khali\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\khali\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

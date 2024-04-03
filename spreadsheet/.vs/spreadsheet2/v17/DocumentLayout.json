@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{038DA7D3-D086-4E84-BC83-01FB0C38CD79}|SpreadSheetEngine\\SpreadSheetEngine.csproj|c:\\users\\khali\\downloads\\spreadsheet-main\\spreadsheet-main\\spreadsheet2\\spreadsheetengine\\parse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038DA7D3-D086-4E84-BC83-01FB0C38CD79}|SpreadSheetEngine\\SpreadSheetEngine.csproj|solutionrelative:spreadsheetengine\\parse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038DA7D3-D086-4E84-BC83-01FB0C38CD79}|SpreadSheetEngine\\SpreadSheetEngine.csproj|c:\\users\\khali\\downloads\\spreadsheet-main\\spreadsheet-main\\spreadsheet2\\spreadsheetengine\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038DA7D3-D086-4E84-BC83-01FB0C38CD79}|SpreadSheetEngine\\SpreadSheetEngine.csproj|solutionrelative:spreadsheetengine\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038DA7D3-D086-4E84-BC83-01FB0C38CD79}|SpreadSheetEngine\\SpreadSheetEngine.csproj|c:\\users\\khali\\downloads\\spreadsheet-main\\spreadsheet-main\\spreadsheet2\\spreadsheetengine\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038DA7D3-D086-4E84-BC83-01FB0C38CD79}|SpreadSheetEngine\\SpreadSheetEngine.csproj|solutionrelative:spreadsheetengine\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038DA7D3-D086-4E84-BC83-01FB0C38CD79}|SpreadSheetEngine\\SpreadSheetEngine.csproj|c:\\users\\khali\\downloads\\spreadsheet-main\\spreadsheet-main\\spreadsheet2\\spreadsheetengine\\additionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038DA7D3-D086-4E84-BC83-01FB0C38CD79}|SpreadSheetEngine\\SpreadSheetEngine.csproj|solutionrelative:spreadsheetengine\\additionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038DA7D3-D086-4E84-BC83-01FB0C38CD79}|SpreadSheetEngine\\SpreadSheetEngine.csproj|c:\\users\\khali\\downloads\\spreadsheet-main\\spreadsheet-main\\spreadsheet2\\spreadsheetengine\\multiplicationnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038DA7D3-D086-4E84-BC83-01FB0C38CD79}|SpreadSheetEngine\\SpreadSheetEngine.csproj|solutionrelative:spreadsheetengine\\multiplicationnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038DA7D3-D086-4E84-BC83-01FB0C38CD79}|SpreadSheetEngine\\SpreadSheetEngine.csproj|c:\\users\\khali\\downloads\\spreadsheet-main\\spreadsheet-main\\spreadsheet2\\spreadsheetengine\\subtractionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038DA7D3-D086-4E84-BC83-01FB0C38CD79}|SpreadSheetEngine\\SpreadSheetEngine.csproj|solutionrelative:spreadsheetengine\\subtractionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED65EE90-6C81-455B-AD7D-C8F138463EAA}|spreadsheet2\\spreadsheet2.csproj|c:\\users\\khali\\downloads\\spreadsheet-main\\spreadsheet-main\\spreadsheet2\\spreadsheet2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED65EE90-6C81-455B-AD7D-C8F138463EAA}|spreadsheet2\\spreadsheet2.csproj|solutionrelative:spreadsheet2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038DA7D3-D086-4E84-BC83-01FB0C38CD79}|SpreadSheetEngine\\SpreadSheetEngine.csproj|c:\\users\\khali\\downloads\\spreadsheet-main\\spreadsheet-main\\spreadsheet2\\spreadsheetengine\\changecolorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038DA7D3-D086-4E84-BC83-01FB0C38CD79}|SpreadSheetEngine\\SpreadSheetEngine.csproj|solutionrelative:spreadsheetengine\\changecolorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "parse.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\parse.cs",
+              "RelativeDocumentMoniker": "SpreadSheetEngine\\parse.cs",
+              "ToolTip": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\parse.cs",
+              "RelativeToolTip": "SpreadSheetEngine\\parse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:37:49.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\Parser.cs",
+              "RelativeDocumentMoniker": "SpreadSheetEngine\\Parser.cs",
+              "ToolTip": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\Parser.cs",
+              "RelativeToolTip": "SpreadSheetEngine\\Parser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:37:49.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\Node.cs",
+              "RelativeDocumentMoniker": "SpreadSheetEngine\\Node.cs",
+              "ToolTip": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\Node.cs",
+              "RelativeToolTip": "SpreadSheetEngine\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:37:49.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultiplicationNode.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\MultiplicationNode.cs",
+              "RelativeDocumentMoniker": "SpreadSheetEngine\\MultiplicationNode.cs",
+              "ToolTip": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\MultiplicationNode.cs",
+              "RelativeToolTip": "SpreadSheetEngine\\MultiplicationNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:37:49.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdditionNode.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\AdditionNode.cs",
+              "RelativeDocumentMoniker": "SpreadSheetEngine\\AdditionNode.cs",
+              "ToolTip": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\AdditionNode.cs",
+              "RelativeToolTip": "SpreadSheetEngine\\AdditionNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:37:49.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubtractionNode.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\SubtractionNode.cs",
+              "RelativeDocumentMoniker": "SpreadSheetEngine\\SubtractionNode.cs",
+              "ToolTip": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\SubtractionNode.cs",
+              "RelativeToolTip": "SpreadSheetEngine\\SubtractionNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:37:49.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\spreadsheet2\\Form1.cs",
+              "RelativeDocumentMoniker": "spreadsheet2\\Form1.cs",
+              "ToolTip": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\spreadsheet2\\Form1.cs [Design]",
+              "RelativeToolTip": "spreadsheet2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:37:49.559Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChangeColorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\ChangeColorCommand.cs",
+              "RelativeDocumentMoniker": "SpreadSheetEngine\\ChangeColorCommand.cs",
+              "ToolTip": "C:\\Users\\khali\\Downloads\\Spreadsheet-main\\Spreadsheet-main\\spreadsheet2\\SpreadSheetEngine\\ChangeColorCommand.cs",
+              "RelativeToolTip": "SpreadSheetEngine\\ChangeColorCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:37:49.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
